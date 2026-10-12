@@ -1,0 +1,26 @@
+{
+  "name": "project-spec",
+  "owner": {
+    "name": "Abdulkader Safi",
+    "email": "safi.abdulkader@gmail.com",
+    "url": "https://github.com/Abdulkader-Safi"
+  },
+  "metadata": {
+    "description": "Project spec plugin for Claude Code and Claude Cowork.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "project-spec",
+      "source": "./",
+      "description": "Turns a project idea into six signed-off planning files, ending in a build spec Claude Code can build from alone.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Abdulkader Safi"
+      },
+      "homepage": "https://github.com/Abdulkader-Safi/Project-Spec-Plugin",
+      "keywords": ["spec", "prd", "planning", "requirements", "build-spec"],
+      "category": "productivity"
+    }
+  ]
+}

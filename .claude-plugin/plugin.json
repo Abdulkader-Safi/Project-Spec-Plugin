@@ -1,0 +1,12 @@
+{
+  "name": "project-spec",
+  "version": "0.1.0",
+  "description": "Turns a project idea into six signed-off planning files, ending in a build spec Claude Code can build from alone.",
+  "author": {
+    "name": "Abdulkader Safi",
+    "url": "https://github.com/Abdulkader-Safi"
+  },
+  "homepage": "https://github.com/Abdulkader-Safi/Project-Spec-Plugin",
+  "repository": "https://github.com/Abdulkader-Safi/Project-Spec-Plugin",
+  "keywords": ["spec", "prd", "planning", "requirements", "build-spec"]
+}
